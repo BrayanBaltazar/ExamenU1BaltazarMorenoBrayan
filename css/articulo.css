@@ -1,0 +1,118 @@
+.facebook{
+    width: 30px; 
+    height: 30px;
+    
+}
+.twiter{
+    width: 30px; 
+    height: 30px;
+    
+}
+.instagram{
+    width: 30px; 
+    height: 30px;
+    
+}
+.Encabezado{
+    float: left;
+}
+.menu{
+    float: right; 
+    padding-top: 20px;
+}
+.menu>a{
+    text-decoration: none;
+    padding-top: -20px;
+    padding-right: 20px;
+    
+}
+header{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+    padding: 0;
+    height: 100px;
+}
+#blog h3,h4{
+    text-align: center;
+}
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: 15px;
+
+}
+#blog article{
+    margin: 15px;
+}
+#blog img {
+    
+    max-width: 280px;
+    padding-left: 15px;
+    
+}
+.img1{
+    margin-left: -15px;
+    margin-top: 20px;
+    background-position: center;
+    width: 400px; 
+    height: 200px;
+}
+.img2{
+    margin-left: 15px;
+    margin-top: 20px;
+    background-position: center;
+    width: 400px; 
+    height: 200px;
+    
+}
+.img3{
+    margin-left: 15px;
+    margin-top: 20px;
+    background-position: center;
+    width: 400px; 
+    height: 200px;
+
+}
+.t1{
+
+text-align: justify;
+font-family: 'Roboto', sans-serif;
+
+}
+    .t2{
+text-align: justify;
+font-family: 'Roboto', sans-serif;
+
+    }   
+    .t3{
+text-align: justify;
+font-family: 'Roboto', sans-serif;
+
+    }    
+    .caja1{
+        padding-left:150px;
+    } 
+    .caja2{
+        padding-left: 150px;
+
+    }
+    .caja3{
+padding-left: 60px;
+    }
+    @media screen and (min-width:480px){
+        h1:hover{
+        width: 190px;
+           }
+        }
+        @media screen and (min-width:768px){
+            h1:hover{
+            width: 300px;
+               }
+            }
+            @media screen and (min-width:1024px){
+                h1:hover{
+                width: 300px;
+                   }
+                }
+    

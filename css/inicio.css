@@ -1,0 +1,107 @@
+.facebook{
+    width: 30px; 
+    height: 30px;
+    
+}
+.twiter{
+    width: 30px; 
+    height: 30px;
+    
+}
+.instagram{
+    width: 30px; 
+    height: 30px;
+    
+}
+.box1{
+width: 1480px;
+height: 350px;
+border: 0.3pc solid black;
+background-image: url(../image/inicio.jpg);
+float: inline-start;
+background-position: center;
+padding-left: 20%;
+
+padding-top: 5%;
+
+}
+.box2{
+    float: right;
+    width: 880px;
+    height: 350px;
+    border: 0.3pc solid black;
+    background-image: url(../image/foto3.PNG);
+    margin-top: 20px;
+    
+    
+
+    
+    }
+ .box3{
+        width: 880px;
+        height: 350px;
+        border: 0.3pc solid black;
+        background-image: url(../image/foto2.jpg);
+        float: left;
+        margin-top: 20px;
+
+     }
+h1{
+    float: left;
+}
+.menu{
+    float: right; 
+    padding-top: 20px;
+}
+.menu>a{
+    text-decoration: none;
+    padding-top: -20px;
+    padding-right: 20px;
+    
+}
+header{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+    padding: 0;
+    height: 100px;
+}
+body{
+    
+        background-color: white;
+        font-family: 'Roboto', sans-serif;
+        margin: 1;
+        padding: 1;
+    
+}
+.cuerpoPagina{
+    height: 70%;
+}
+.text1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 70pt;
+
+}
+.subtext1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 30pt;
+}
+.text2{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+     text-align: left;
+     font-size: 40px;
+     background-color: red;
+}
+
+.text3{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    font-size: 60px;
+}
+

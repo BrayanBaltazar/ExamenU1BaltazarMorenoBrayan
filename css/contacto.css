@@ -1,0 +1,77 @@
+.facebook{
+    width: 30px; 
+    height: 30px;
+    
+}
+.twiter{
+    width: 30px; 
+    height: 30px;
+    
+}
+.instagram{
+    width: 30px; 
+    height: 30px;
+    
+}
+h1{
+    float: left;
+}
+.menu{
+    float: right; 
+    padding-top: 20px;
+}
+.menu>a{
+    text-decoration: none;
+    padding-top: -20px;
+    padding-right: 20px;
+    
+}
+header{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+    padding: 0;
+    height: 100px;
+}
+.map{
+    padding-top: -700px;
+ 
+ }
+ .texto-1{
+     font-family: "roboto"sans-serif;
+     margin-top: 40px;
+     padding-left: -1000px;
+ }
+ .texto-2{
+     font-family: "roboto"sans-serif;
+     margin-top: 50px;
+ }
+ .letrero{
+     margin-top: -40px;
+     padding-top: -1200px;
+ }
+ .contacto input[type='text'], .contacto textarea{
+     padding: 7px 6px;
+     width: 294px;
+     border: 1px solid black;
+     resize: none; 
+     box-shadow:0 0 0 3px #EEF5F7;
+     margin: 5px 0;
+ }
+ .contacto input[type='submit']{
+     border: 1px solid #CED5D7;
+     box-shadow:0 0 0 3px #EEF5F7;
+     padding: 8px 16px;
+     border-radius: 20px;
+     font-weight: bolder;
+     text-shadow: 1px 1px 0px,brown;
+  
+     background: #e4f1f6; 
+     background: -moz-linear-gradient(top, #e4f1f6 0%, #cfe6ef 100%);
+     background: -webkit-linear-gradient(top, #e4f1f6 0%,#cfe6ef 100%);
+    }
+    .contacto{
+        padding-top: -70px;
+        margin-top: 70px;
+    }
+  
